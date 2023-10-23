@@ -1,4 +1,4 @@
-# Exercício de Sala 🏫  
+# Exercício de Sala 🏫
 
 
 ### Testes de Integração:
@@ -7,8 +7,11 @@ Exercício 1: Baseado no código disponibilizado em [PokeAPI](https://pokeapi.co
 Exercício 2: Semelhante ao anterior, mas com a [SW API](https://swapi.dev/documentation)
 
 https://www.tvmaze.com/api **
+
 https://stapi.co/api-documentation || https://editor.swagger.io/?url=https://stapi.co/api/v1/rest/common/download/stapi.yaml
+
 https://openlibrary.org/developers/api
+
 https://www.dnd5eapi.co/docs/
 
 outras = https://github.com/public-apis/public-apis
