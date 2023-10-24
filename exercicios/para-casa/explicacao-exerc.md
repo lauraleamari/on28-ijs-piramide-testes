@@ -18,3 +18,16 @@ testar nome de estado qu enão existe, id que não tem, retornar status diferent
 usar do jest:
 toBe
 se é null
+
+---------------------
+
+exercicio 2
+
+teste manual - igual do ml, wiki
+
+principais fluxos do pintrest
+
+termo: pesquisar e ver o que acha
+criação do board: quadro de imagem, criar um do zero e documentar onde clica o que faz
+
+upload de pin: como submeter uma imagem para essa rede social, o que tem que clicar, o que tem que fazer.
